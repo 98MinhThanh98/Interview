@@ -12,7 +12,7 @@ có thể chia được nhiều và nhỏ để dễ dàng quản lí hơn
 ### Functional
 là một hàm đơn giản do JavaScrips đơn giản , chúng nhận những prop hay còn gọi là tham số truyền 
 vào và return react elements. Vì nó không có lifecycle nên nó không có componentDidMount và 
-các hooks khác
+các hooks khác 
 
 ---
 
